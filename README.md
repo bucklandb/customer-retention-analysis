@@ -65,7 +65,7 @@ For the SQL route, see [sql/README.md](sql/README.md). It uses Snowflake window 
 
 ## Verification
 
-The full local workbook run reproduced the cohort and generated the committed aggregate report. All 10 synthetic unit tests also passed with the pinned dependencies on Python 3.12.14 during the publication check. Synthetic tests cover boundary cases and reproducible evaluation. Notebook Python cells were checked in order separately; this is not a Jupyter or live Snowflake runtime check. The CI configuration must still run on GitHub after publication.
+The full local workbook run reproduced the cohort and generated the committed aggregate report. All 10 synthetic unit tests also passed with the pinned dependencies on Python 3.12.14 during the publication check. Synthetic tests cover boundary cases and reproducible evaluation. Notebook Python cells were checked in order separately; this is not a Jupyter or live Snowflake runtime check. GitHub Actions runs the synthetic unit tests; full-workbook and notebook execution remain separate checks.
 
 ## Data attribution and contributions
 
