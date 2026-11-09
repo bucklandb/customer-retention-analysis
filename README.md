@@ -71,4 +71,4 @@ The full local workbook run reproduced the cohort and generated the committed ag
 
 Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33 . [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Independent project by Benjamin Buckland, with AI-assisted coaching, presentation refinement, and repository packaging. See [provenance](docs/provenance.md). No proprietary employer material or course assignment content is included. A code license has not been selected.
+Independent project by Benjamin Buckland, with AI-assisted coaching, presentation refinement, and repository packaging. See [provenance](docs/provenance.md).
