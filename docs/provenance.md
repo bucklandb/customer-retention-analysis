@@ -8,7 +8,7 @@ The exact original Snowflake row order was not retained. A fixed random seed is 
 
 The data is Chen, D. (2015), Online Retail, UCI Machine Learning Repository, https://doi.org/10.24432/C5BW33, licensed CC BY 4.0. Dataset download: https://archive.ics.uci.edu/dataset/352/online+retail . Dataset license: https://creativecommons.org/licenses/by/4.0/ . Derived aggregate results and charts retain that attribution. The raw workbook, customer-level exports, recordings, account details, course instructions, and employer materials are excluded from Git.
 
-Code licensing has not been selected. No license granting new rights is added automatically. Dataset licensing does not assign a license to this project's code.
+Original code is licensed under the [MIT License](../LICENSE), copyright 2026 Benjamin Buckland. The UCI Online Retail dataset and derived aggregate results and charts remain under CC BY 4.0; the MIT license does not change their license or attribution requirements.
 
 Source notebook SHA-256 hashes (audit identifiers, not publication of original paths):
 {
